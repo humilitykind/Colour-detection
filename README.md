@@ -1,6 +1,9 @@
-input a picture of the colour , and click with mouse 
 
-main script as task1.ipynb
+Run main script as task1.ipynb
+
+input a picture whose the colour you want to identify, and click with mouse 
+
+You will get the nearest official colur name
 
 comments in the nb itself
 
